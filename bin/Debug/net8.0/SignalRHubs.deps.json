@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SignalRHubs/1.0.0": {
+        "runtime": {
+          "SignalRHubs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SignalRHubs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
